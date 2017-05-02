@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\pst-zipper-gui-java_2.10-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\ZipperGui$RunButtonListener.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\ZipperGui$RunButtonListener.class[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\MyProcess.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\MyProcess.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\FileZipper.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\FileZipper.class[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\ZipperGui.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\ZipperGui.class[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\FileSizeCounter.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\FileSizeCounter.class[0m
+[0m[[0mdebug[0m] [0m	com\grobster[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\ZipperTestDrive.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\ZipperTestDrive.class[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\FileZipperObserver.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\FileZipperObserver.class[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util\ZipperGui$RunButtonListener$1.class[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util\ZipperGui$RunButtonListener$1.class[0m
+[0m[[0mdebug[0m] [0m	com\grobster\util[0m
+[0m[[0mdebug[0m] [0m	  C:\Users\quarl\Documents\GitHub\java_pst_zipper_gui\target\scala-2.10\classes\com\grobster\util[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

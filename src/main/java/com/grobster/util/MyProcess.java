@@ -23,16 +23,4 @@ public class MyProcess {
 	
 		return false;
 	}
-	
-	public static void main(String[] args) {
-		String process1 = "OUTLOOK.EXE";
-		boolean result = isRunning(process1);
-		if(result) {
-			System.out.println("It is running");
-		} else {
-			System.out.println("It is not running.");
-		}
-		
-	}
-
 }

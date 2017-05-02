@@ -3,3 +3,9 @@ javaSource
 compile
 run
 exit
+tasks
+package
+compile
+run
+package
+exit
